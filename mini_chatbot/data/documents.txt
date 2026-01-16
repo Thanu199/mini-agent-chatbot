@@ -1,0 +1,14 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines that are programmed to think and learn. AI systems can perform tasks such as reasoning, problem-solving, and decision-making.
+
+
+Machine Learning (ML) is a subset of Artificial Intelligence that allows systems to learn from data and improve their performance automatically without being explicitly programmed. It focuses on identifying patterns in data.
+
+
+Deep Learning (DL) is a subset of Machine Learning that uses neural networks with multiple layers to model complex patterns. It is commonly used in image recognition, speech recognition, and natural language processing.
+
+
+Natural Language Processing (NLP) is a field of AI that enables machines to understand, interpret, and generate human language. It is used in chatbots, translation systems, and text analysis.
+
+
+FastAPI is a modern Python web framework used to build fast and efficient APIs. It is widely used in machine learning and AI applications due to its high performance and simplicity.
+
