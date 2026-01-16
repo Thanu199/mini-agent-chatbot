@@ -5,7 +5,7 @@
 This project implements a Mini Agent Chatbot that selects different tools based on the user's question.
 The agent decides whether to use document search, weather lookup, or a default response using custom control logic.
 
-**Selected Task:** Task 3 — Mini Agent Chatbot with Tool Use
+
 
 ---
 
@@ -33,7 +33,6 @@ The system is built using FastAPI and follows a modular design:
 ```
 mini_chatbot/
 │
-├── README.md
 ├── app.py
 ├── agent.py
 ├── db.py
